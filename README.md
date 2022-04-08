@@ -5,7 +5,7 @@ Some other projects that I've collaborated in are the following:<br>
 https://garden.utep.edu/ <br>
 https://solconference.utep.edu/<br>
 https://digitallibrary.utep.edu/<br>
-Note: Some of these projects may not be currently available for reaasons outside of my control.
+Note: Some of these projects may not be currently available for reasons outside of my control.
 
 Thank you!
 
